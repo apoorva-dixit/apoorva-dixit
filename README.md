@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Apoorva!
-- 👀 I’m interested in giving meaning to abundance of data around us.
 - 🌱 I’m currently learning Data and Business Analytics.
-- 💞️ I’m looking to collaborate on data analytics and forecasting.
+- 👀 I’m looking to collaborate on data analytics and forecasting.
 - 📫 Reach me on Linkedin: https://www.linkedin.com/in/apoorva-dixit-8b6b75116/
 
 <!---
